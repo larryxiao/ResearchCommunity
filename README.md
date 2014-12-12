@@ -1,4 +1,4 @@
-ResearchCommunity
+USENIX Conference, bio lookup
 =================
 
-help you get to know the research community
+help you look up people's bio
